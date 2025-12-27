@@ -1,0 +1,7 @@
+{
+  "class": "PALADIN",
+  "spec": "RETRIBUTION",
+  "nodes": [
+    { "id": 1001, "x": 0, "y": 0, "maxRank": 1, "requires": [], "spellId": 35395 },
+    { "id": 1002, "x": 1, "y": 0, "maxRank": 2, "requires": [1001], "spellId": 53385 }
+  ]
